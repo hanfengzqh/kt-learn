@@ -8,9 +8,10 @@ import java.sql.SQLOutput;
 public class TestGit {
 
     public static void main(String[] args) {
-
+        System.out.println("ssssssss");
     }
-    int i =0;
+    int i =2;
+    int j =0;
 
 
 }
