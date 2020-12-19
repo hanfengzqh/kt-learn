@@ -11,7 +11,7 @@ public class TestGit {
         System.out.println("ssssssss");
     }
     int i =2;
-    int j =0;
+    int j =3;
     int m =0;
     int n =0;
     int n1=1;
