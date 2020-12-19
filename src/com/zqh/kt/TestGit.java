@@ -15,6 +15,7 @@ public class TestGit {
     int m =0;
     int n =0;
     int n1=1;
+    int n2=2;
 
 
 }
